@@ -4,7 +4,6 @@
 
 - [About](#about)
 - [List of Exercises](#list-of-exercises)
-  - [Exercise 02](#exercise-02)
 - [About](#about)
 - [Links](#links)
 
@@ -13,7 +12,12 @@ Repository dedicated to projects from UFRJ Theory of Computation course (EEL881)
 
 ## List of Exercises
 
-### [Exercise 02](/exercise02)
+- [x] [Exercise 02](/exercise02)
+- [ ] [Exercise 03](/exercise02)
+- [ ] [Exercise 04](/exercise02)
+- [ ] [Exercise 05](/exercise02)
+- [ ] [Exercise 06](/exercise02)
+- [ ] [Exercise 07](/exercise02)
 
 ## Links
 
