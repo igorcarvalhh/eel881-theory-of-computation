@@ -13,7 +13,7 @@ Repository dedicated to projects from UFRJ Theory of Computation course (EEL881)
 
 ## List of Exercises
 
-### [Exercise 02]()
+### [Exercise 02](/exercise02)
 
 ## Links
 
